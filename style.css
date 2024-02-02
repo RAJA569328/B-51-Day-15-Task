@@ -1,0 +1,16 @@
+.OuterDiv{
+    display: flex;
+    justify-content: center ;
+    margin: 25px;
+}
+
+th, td{
+    border: 2px solid black;
+}
+
+form{
+    margin-right: 50px;
+}
+ tr{
+    height: auto;
+}
